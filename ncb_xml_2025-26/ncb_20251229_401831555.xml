@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ESPN_EVENT>
+  <gameID>401831555</gameID>
+  <visitor>Mobile Rams</visitor>
+  <home>South Alabama Jaguars</home>
+  <date>20251229</date>
+  <ESPN_DATA_PARSE_VERSION>20251229</ESPN_DATA_PARSE_VERSION>
+  <ESPN_BOX_URL>https://www.espn.com/mens-college-basketball/game/_/gameId/401831555/mobile-south-alabama</ESPN_BOX_URL>
+  <RESULT>
+    <visitor>
+      <id>2920</id>
+      <team_long>Mobile Rams</team_long>
+      <team_short>Mobil</team_short>
+      <T>52</T>
+      <score>(0-0)</score>
+    </visitor>
+    <home>
+      <id>6</id>
+      <team_long>South Alabama Jaguars</team_long>
+      <team_short>Usa</team_short>
+      <T>85</T>
+      <score>(0-0)</score>
+    </home>
+  </RESULT>
+  <GAME_TIME_AND_LOCATION>
+    <date>20251229</date>
+    <unix_time>1767052800</unix_time>
+    <location>Mitchell Center, Mobile, AL</location>
+    <attendance>Attendance: 0</attendance>
+    <capacity></capacity>
+  </GAME_TIME_AND_LOCATION>
+  <LINESCORE>
+    <visitor>
+      <id></id>
+      <team_long>Mobile Rams</team_long>
+      <c1>28</c1>
+      <c2>24</c2>
+      <T>52</T>
+    </visitor>
+    <home>
+      <id></id>
+      <team_long>South Alabama Jaguars</team_long>
+      <c1>37</c1>
+      <c2>48</c2>
+      <T>85</T>
+    </home>
+  </LINESCORE>
+  <GAME_NOTES>
+    <top_performers>
+      <assists>
+        <home>
+          <player>
+            <player_name>randy-brady</player_name>
+            <player_ID>4433611</player_ID>
+            <ast>4</ast>
+            <to>2</to>
+            <min>27</min>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name>aahmod-scarbrough</player_name>
+            <player_ID>5250363</player_ID>
+            <ast>3</ast>
+            <to>6</to>
+            <min>31</min>
+          </player>
+        </visitor>
+      </assists>
+      <points>
+        <home>
+          <player>
+            <player_name>hantz-louis-jeune</player_name>
+            <player_ID>5107410</player_ID>
+            <pts>18</pts>
+            <fg>5/11</fg>
+            <ft>5/5</ft>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name>jarvis-moss</player_name>
+            <player_ID>5181480</player_ID>
+            <pts>12</pts>
+            <fg>4/16</fg>
+            <ft>0/0</ft>
+          </player>
+        </visitor>
+      </points>
+      <rebounds>
+        <home>
+          <player>
+            <player_name>randy-brady</player_name>
+            <player_ID>4433611</player_ID>
+            <reb>9</reb>
+            <dreb>9</dreb>
+            <oreb>0</oreb>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name>zion-hunter</player_name>
+            <player_ID>5262098</player_ID>
+            <reb>8</reb>
+            <dreb>8</dreb>
+            <oreb>0</oreb>
+          </player>
+        </visitor>
+      </rebounds>
+    </top_performers>
+  </GAME_NOTES>
+  <STATS>
+    <visitor>
+      <team>Mobile Rams</team>
+      <starters>
+        <player>
+          <player_name>zion-hunter</player_name>
+          <player_jersey>23</player_jersey>
+          <pos>ATH</pos>
+          <player_ID>5262098</player_ID>
+          <MIN>35</MIN>
+          <FGM-A>1-5</FGM-A>
+          <_3PM-A>0-3</_3PM-A>
+          <FTM-A>2-2</FTM-A>
+          <OREB>0</OREB>
+          <DREB>8</DREB>
+          <REB>8</REB>
+          <AST>2</AST>
+          <STL>0</STL>
+          <BLK>2</BLK>
+          <TO>2</TO>
+          <PF>3</PF>
+          <PTS>4</PTS>
+        </player>
+        <player>
+          <player_name>aahmod-scarbrough</player_name>
+          <player_jersey></player_jersey>
+          <pos>ATH</pos>
+          <player_ID>5250363</player_ID>
+          <MIN>31</MIN>
+          <FGM-A>3-11</FGM-A>
+          <_3PM-A>2-8</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>4</DREB>
+          <REB>4</REB>
+          <AST>3</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>6</TO>
+          <PF>2</PF>
+          <PTS>8</PTS>
+        </player>
+        <player>
+          <player_name>mason-sword</player_name>
+          <player_jersey></player_jersey>
+          <pos>G</pos>
+          <player_ID>5329895</player_ID>
+          <MIN>25</MIN>
+          <FGM-A>3-9</FGM-A>
+          <_3PM-A>3-6</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>4</DREB>
+          <REB>4</REB>
+          <AST>0</AST>
+          <STL>1</STL>
+          <BLK>1</BLK>
+          <TO>1</TO>
+          <PF>1</PF>
+          <PTS>9</PTS>
+        </player>
+        <player>
+          <player_name>dayton-richardson</player_name>
+          <player_jersey></player_jersey>
+          <pos>G</pos>
+          <player_ID>5187761</player_ID>
+          <MIN>26</MIN>
+          <FGM-A>1-6</FGM-A>
+          <_3PM-A>0-4</_3PM-A>
+          <FTM-A>2-3</FTM-A>
+          <OREB>2</OREB>
+          <DREB>3</DREB>
+          <REB>5</REB>
+          <AST>1</AST>
+          <STL>0</STL>
+          <BLK>1</BLK>
+          <TO>0</TO>
+          <PF>2</PF>
+          <PTS>4</PTS>
+        </player>
+        <player>
+          <player_name>tyshaun-washington</player_name>
+          <player_jersey></player_jersey>
+          <pos>G</pos>
+          <player_ID>5181498</player_ID>
+          <MIN>14</MIN>
+          <FGM-A>1-2</FGM-A>
+          <_3PM-A>1-2</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>0</DREB>
+          <REB>0</REB>
+          <AST>1</AST>
+          <STL>0</STL>
+          <BLK>0</BLK>
+          <TO>2</TO>
+          <PF>3</PF>
+          <PTS>3</PTS>
+        </player>
+      </starters>
+      <bench>
+        <player>
+          <player_name>von-carter-ward</player_name>
+          <player_jersey></player_jersey>
+          <pos>F</pos>
+          <player_ID>5329897</player_ID>
+          <MIN>3</MIN>
+          <FGM-A>0-0</FGM-A>
+          <_3PM-A>0-0</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>0</DREB>
+          <REB>0</REB>
+          <AST>0</AST>
+          <STL>0</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>0</PF>
+          <PTS>0</PTS>
+        </player>
+        <player>
+          <player_name>mo-kamara</player_name>
+          <player_jersey></player_jersey>
+          <pos>F</pos>
+          <player_ID>5329896</player_ID>
+          <MIN>15</MIN>
+          <FGM-A>0-1</FGM-A>
+          <_3PM-A>0-0</_3PM-A>
+          <FTM-A>2-2</FTM-A>
+          <OREB>1</OREB>
+          <DREB>0</DREB>
+          <REB>1</REB>
+          <AST>0</AST>
+          <STL>0</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>5</PF>
+          <PTS>2</PTS>
+        </player>
+        <player>
+          <player_name>kristiyan-vasilev</player_name>
+          <player_jersey></player_jersey>
+          <pos>F</pos>
+          <player_ID>5329893</player_ID>
+          <MIN>9</MIN>
+          <FGM-A>1-1</FGM-A>
+          <_3PM-A>0-0</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>1</DREB>
+          <REB>1</REB>
+          <AST>2</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>1</TO>
+          <PF>2</PF>
+          <PTS>2</PTS>
+        </player>
+        <player>
+          <player_name>oliver-boyle</player_name>
+          <player_jersey></player_jersey>
+          <pos>G</pos>
+          <player_ID>5329894</player_ID>
+          <MIN>16</MIN>
+          <FGM-A>3-7</FGM-A>
+          <_3PM-A>2-6</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>1</OREB>
+          <DREB>0</DREB>
+          <REB>1</REB>
+          <AST>1</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>1</PF>
+          <PTS>8</PTS>
+        </player>
+        <player>
+          <player_name>javion-dailey</player_name>
+          <player_jersey></player_jersey>
+          <pos>G</pos>
+          <player_ID>5329892</player_ID>
+          <MIN>3</MIN>
+          <FGM-A>0-1</FGM-A>
+          <_3PM-A>0-1</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>0</DREB>
+          <REB>0</REB>
+          <AST>0</AST>
+          <STL>0</STL>
+          <BLK>0</BLK>
+          <TO>1</TO>
+          <PF>0</PF>
+          <PTS>0</PTS>
+        </player>
+        <player>
+          <player_name>kareem-harris</player_name>
+          <player_jersey></player_jersey>
+          <pos>G</pos>
+          <player_ID>5181488</player_ID>
+          <MIN>2</MIN>
+          <FGM-A>0-2</FGM-A>
+          <_3PM-A>0-1</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>0</DREB>
+          <REB>0</REB>
+          <AST>0</AST>
+          <STL>0</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>0</PF>
+          <PTS>0</PTS>
+        </player>
+        <player>
+          <player_name>jarvis-moss</player_name>
+          <player_jersey>15</player_jersey>
+          <pos>G</pos>
+          <player_ID>5181480</player_ID>
+          <MIN>21</MIN>
+          <FGM-A>4-16</FGM-A>
+          <_3PM-A>4-13</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>5</DREB>
+          <REB>5</REB>
+          <AST>1</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>1</TO>
+          <PF>0</PF>
+          <PTS>12</PTS>
+        </player>
+      </bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A>17-61</FGM-A>
+          <_3PM-A>12-44</_3PM-A>
+          <FTM-A>6-7</FTM-A>
+          <OREB>6</OREB>
+          <DREB>27</DREB>
+          <REB>33</REB>
+          <AST>11</AST>
+          <STL>5</STL>
+          <BLK>4</BLK>
+          <TO>14</TO>
+          <PF>19</PF>
+          <PTS>52</PTS>
+        </player>
+      </totals>
+    </visitor>
+    <home>
+      <team>South Alabama Jaguars</team>
+      <starters>
+        <player>
+          <player_name>randy-brady</player_name>
+          <player_jersey>34</player_jersey>
+          <pos>F</pos>
+          <player_ID>4433611</player_ID>
+          <MIN>27</MIN>
+          <FGM-A>0-3</FGM-A>
+          <_3PM-A>0-1</_3PM-A>
+          <FTM-A>1-2</FTM-A>
+          <OREB>0</OREB>
+          <DREB>9</DREB>
+          <REB>9</REB>
+          <AST>4</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>2</TO>
+          <PF>1</PF>
+          <PTS>1</PTS>
+        </player>
+        <player>
+          <player_name>jayden-cooper</player_name>
+          <player_jersey>1</player_jersey>
+          <pos>G</pos>
+          <player_ID>5240641</player_ID>
+          <MIN>20</MIN>
+          <FGM-A>5-11</FGM-A>
+          <_3PM-A>1-6</_3PM-A>
+          <FTM-A>2-4</FTM-A>
+          <OREB>0</OREB>
+          <DREB>3</DREB>
+          <REB>3</REB>
+          <AST>0</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>0</PF>
+          <PTS>13</PTS>
+        </player>
+        <player>
+          <player_name>chaze-harris</player_name>
+          <player_jersey>2</player_jersey>
+          <pos>G</pos>
+          <player_ID>5189001</player_ID>
+          <MIN>19</MIN>
+          <FGM-A>5-10</FGM-A>
+          <_3PM-A>0-3</_3PM-A>
+          <FTM-A>3-4</FTM-A>
+          <OREB>1</OREB>
+          <DREB>1</DREB>
+          <REB>2</REB>
+          <AST>2</AST>
+          <STL>1</STL>
+          <BLK>2</BLK>
+          <TO>2</TO>
+          <PF>1</PF>
+          <PTS>13</PTS>
+        </player>
+        <player>
+          <player_name>john-broom</player_name>
+          <player_jersey>14</player_jersey>
+          <pos>G</pos>
+          <player_ID>5176682</player_ID>
+          <MIN>31</MIN>
+          <FGM-A>3-4</FGM-A>
+          <_3PM-A>2-3</_3PM-A>
+          <FTM-A>2-2</FTM-A>
+          <OREB>0</OREB>
+          <DREB>6</DREB>
+          <REB>6</REB>
+          <AST>0</AST>
+          <STL>3</STL>
+          <BLK>1</BLK>
+          <TO>0</TO>
+          <PF>1</PF>
+          <PTS>10</PTS>
+        </player>
+        <player>
+          <player_name>hantz-louis-jeune</player_name>
+          <player_jersey>4</player_jersey>
+          <pos>G</pos>
+          <player_ID>5107410</player_ID>
+          <MIN>39</MIN>
+          <FGM-A>5-11</FGM-A>
+          <_3PM-A>3-7</_3PM-A>
+          <FTM-A>5-5</FTM-A>
+          <OREB>1</OREB>
+          <DREB>2</DREB>
+          <REB>3</REB>
+          <AST>1</AST>
+          <STL>2</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>0</PF>
+          <PTS>18</PTS>
+        </player>
+      </starters>
+      <bench>
+        <player>
+          <player_name>stephen-williams</player_name>
+          <player_jersey>3</player_jersey>
+          <pos>F</pos>
+          <player_ID>5313202</player_ID>
+          <MIN>24</MIN>
+          <FGM-A>5-7</FGM-A>
+          <_3PM-A>0-0</_3PM-A>
+          <FTM-A>6-8</FTM-A>
+          <OREB>1</OREB>
+          <DREB>7</DREB>
+          <REB>8</REB>
+          <AST>0</AST>
+          <STL>0</STL>
+          <BLK>0</BLK>
+          <TO>0</TO>
+          <PF>1</PF>
+          <PTS>16</PTS>
+        </player>
+        <player>
+          <player_name>brian-hawthorne</player_name>
+          <player_jersey>7</player_jersey>
+          <pos>G</pos>
+          <player_ID>5313203</player_ID>
+          <MIN>20</MIN>
+          <FGM-A>4-8</FGM-A>
+          <_3PM-A>2-2</_3PM-A>
+          <FTM-A>2-3</FTM-A>
+          <OREB>1</OREB>
+          <DREB>4</DREB>
+          <REB>5</REB>
+          <AST>3</AST>
+          <STL>2</STL>
+          <BLK>0</BLK>
+          <TO>1</TO>
+          <PF>1</PF>
+          <PTS>12</PTS>
+        </player>
+        <player>
+          <player_name>jj-wheat</player_name>
+          <player_jersey>6</player_jersey>
+          <pos>G</pos>
+          <player_ID>5240643</player_ID>
+          <MIN>20</MIN>
+          <FGM-A>1-3</FGM-A>
+          <_3PM-A>0-0</_3PM-A>
+          <FTM-A>0-0</FTM-A>
+          <OREB>0</OREB>
+          <DREB>5</DREB>
+          <REB>5</REB>
+          <AST>1</AST>
+          <STL>1</STL>
+          <BLK>0</BLK>
+          <TO>4</TO>
+          <PF>0</PF>
+          <PTS>2</PTS>
+        </player>
+      </bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A>28-57</FGM-A>
+          <_3PM-A>8-22</_3PM-A>
+          <FTM-A>21-28</FTM-A>
+          <OREB>5</OREB>
+          <DREB>39</DREB>
+          <REB>44</REB>
+          <AST>11</AST>
+          <STL>11</STL>
+          <BLK>3</BLK>
+          <TO>9</TO>
+          <PF>5</PF>
+          <PTS>85</PTS>
+        </player>
+      </totals>
+    </home>
+    <flagrant_fouls>None</flagrant_fouls>
+    <technicals>
+      <person>None</person>
+    </technicals>
+    <officials>
+      <person>None</person>
+    </officials>
+    <time_of_game></time_of_game>
+  </STATS>
+  <ESPN_TEAM_ROSTER>
+    <visitor>
+      <roster_header>Mobile Rams Roster 2025-26</roster_header>
+      <coach></coach>
+      <player>
+        <NO>23</NO>
+        <NAME>zion-hunter</NAME>
+        <ID>5262098</ID>
+        <POS>ATH</POS>
+        <HT></HT>
+        <WT></WT>
+        <CLASS></CLASS>
+        <BIRTHPLACE></BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>aahmod-scarbrough</NAME>
+        <ID>5250363</ID>
+        <POS>ATH</POS>
+        <HT></HT>
+        <WT></WT>
+        <CLASS></CLASS>
+        <BIRTHPLACE></BIRTHPLACE>
+      </player>
+      <player>
+        <NO>8</NO>
+        <NAME>mason-sword</NAME>
+        <ID>5329895</ID>
+        <POS>G</POS>
+        <HT>6-4</HT>
+        <WT>215 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Palm Coast, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>10</NO>
+        <NAME>dayton-richardson</NAME>
+        <ID>5187761</ID>
+        <POS>G</POS>
+        <HT>6-7</HT>
+        <WT>200 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>East Point, GA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>tyshaun-washington</NAME>
+        <ID>5181498</ID>
+        <POS>G</POS>
+        <HT>5-11</HT>
+        <WT>170 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Lillian, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>25</NO>
+        <NAME>von-carter-ward</NAME>
+        <ID>5329897</ID>
+        <POS>F</POS>
+        <HT>6-4</HT>
+        <WT>220 lbs</WT>
+        <CLASS>SO</CLASS>
+        <BIRTHPLACE>Mobile, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>22</NO>
+        <NAME>mo-kamara</NAME>
+        <ID>5329896</ID>
+        <POS>F</POS>
+        <HT>6-8</HT>
+        <WT>200 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Orlando, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>1</NO>
+        <NAME>kristiyan-vasilev</NAME>
+        <ID>5329893</ID>
+        <POS>F</POS>
+        <HT>6-7</HT>
+        <WT>210 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Botevgrad</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>5</NO>
+        <NAME>oliver-boyle</NAME>
+        <ID>5329894</ID>
+        <POS>G</POS>
+        <HT>6-4</HT>
+        <WT>180 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Sarasota, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>2</NO>
+        <NAME>javion-dailey</NAME>
+        <ID>5329892</ID>
+        <POS>G</POS>
+        <HT>6-1</HT>
+        <WT>165 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Bay Minette, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>kareem-harris</NAME>
+        <ID>5181488</ID>
+        <POS>G</POS>
+        <HT>6-0</HT>
+        <WT>155 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Tallahassee, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>15</NO>
+        <NAME>jarvis-moss</NAME>
+        <ID>5181480</ID>
+        <POS>G</POS>
+        <HT>6-1</HT>
+        <WT>170 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Selma, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>30</NO>
+        <NAME>adarius-oliver</NAME>
+        <ID>5262099</ID>
+        <POS>ATH</POS>
+        <HT></HT>
+        <WT></WT>
+        <CLASS></CLASS>
+        <BIRTHPLACE></BIRTHPLACE>
+      </player>
+      <player>
+        <NO>3</NO>
+        <NAME>colin-howells</NAME>
+        <ID>5262097</ID>
+        <POS>ATH</POS>
+        <HT></HT>
+        <WT></WT>
+        <CLASS></CLASS>
+        <BIRTHPLACE></BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>bridges-simons</NAME>
+        <ID>5183142</ID>
+        <POS>ATH</POS>
+        <HT></HT>
+        <WT></WT>
+        <CLASS></CLASS>
+        <BIRTHPLACE></BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>carson-tyre</NAME>
+        <ID>5181497</ID>
+        <POS>F</POS>
+        <HT>6-4</HT>
+        <WT>215 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Tallahassee, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>dallas-skinner</NAME>
+        <ID>5181495</ID>
+        <POS>F</POS>
+        <HT>6-2</HT>
+        <WT>155 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Jacksonville, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>collin-lockhart</NAME>
+        <ID>5181490</ID>
+        <POS>F</POS>
+        <HT>6-3</HT>
+        <WT>185 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Springville, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>davon-carter-ward</NAME>
+        <ID>5181485</ID>
+        <POS>F</POS>
+        <HT>6-4</HT>
+        <WT>220 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Mobile, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>seth-brooks</NAME>
+        <ID>5181484</ID>
+        <POS>F</POS>
+        <HT>6-4</HT>
+        <WT>190 lbs</WT>
+        <CLASS>SO</CLASS>
+        <BIRTHPLACE>Kokomo, IN</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>14</NO>
+        <NAME>tadeas-manas</NAME>
+        <ID>4706545</ID>
+        <POS>F</POS>
+        <HT>6-7</HT>
+        <WT>230 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Prague</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>max-keebaugh</NAME>
+        <ID>4706543</ID>
+        <POS>F</POS>
+        <HT>6-8</HT>
+        <WT>205 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Fort Walton Beach, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>30</NO>
+        <NAME>jared-harbin</NAME>
+        <ID>4706539</ID>
+        <POS>F</POS>
+        <HT>6-5</HT>
+        <WT>195 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Mobile, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>4</NO>
+        <NAME>sage-mckenna</NAME>
+        <ID>4596953</ID>
+        <POS>F</POS>
+        <HT>6-7</HT>
+        <WT>220 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Fort Walton Beach, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>brayden-wilson</NAME>
+        <ID>5181499</ID>
+        <POS>G</POS>
+        <HT>6-0</HT>
+        <WT>175 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Sylacauga, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>jacoby-tucker</NAME>
+        <ID>5181496</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>150 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Gadsden, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>brandon-santos</NAME>
+        <ID>5181494</ID>
+        <POS>G</POS>
+        <HT>5-6</HT>
+        <WT>160 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Homestead, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>dylan-prince</NAME>
+        <ID>5181493</ID>
+        <POS>G</POS>
+        <HT>6-0</HT>
+        <WT>185 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Tuscaloosa, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>andrew-mcclendon</NAME>
+        <ID>5181492</ID>
+        <POS>G</POS>
+        <HT>5-6</HT>
+        <WT>145 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Macon, GA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>o'reilly-matthews</NAME>
+        <ID>5181491</ID>
+        <POS>G</POS>
+        <HT>5-11</HT>
+        <WT>150 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Ringgold, GA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>devin-kersh</NAME>
+        <ID>5181489</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>190 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Jacksonville, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>stephen-galvin</NAME>
+        <ID>5181487</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>160 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Canton, GA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>elias-elbroji</NAME>
+        <ID>5181486</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>155 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Atlantic Highlands, NJ</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>andrew-bosarge</NAME>
+        <ID>5181483</ID>
+        <POS>G</POS>
+        <HT>5-9</HT>
+        <WT>170 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Pensacola, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>alex-abernathy</NAME>
+        <ID>5181482</ID>
+        <POS>G</POS>
+        <HT>6-0</HT>
+        <WT>167 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Barnesville, GA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>24</NO>
+        <NAME>mason-guffey</NAME>
+        <ID>5181481</ID>
+        <POS>G</POS>
+        <HT>6-5</HT>
+        <WT>165 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Campbellsville, KY</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>11</NO>
+        <NAME>bridges-simmons</NAME>
+        <ID>5181479</ID>
+        <POS>G</POS>
+        <HT>6-3</HT>
+        <WT>185 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Daphne, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>21</NO>
+        <NAME>grayson-cannon</NAME>
+        <ID>5112336</ID>
+        <POS>G</POS>
+        <HT>6-0</HT>
+        <WT>165 lbs</WT>
+        <CLASS>SO</CLASS>
+        <BIRTHPLACE>Deatsville, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>3</NO>
+        <NAME>pooh-frazier</NAME>
+        <ID>5112333</ID>
+        <POS>G</POS>
+        <HT>6-3</HT>
+        <WT>195 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Mobile, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>2</NO>
+        <NAME>liam-patterson</NAME>
+        <ID>5112332</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>185 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Perth, WA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>chris-cosper</NAME>
+        <ID>4906979</ID>
+        <POS>G</POS>
+        <HT>5-11</HT>
+        <WT>150 lbs</WT>
+        <CLASS>SO</CLASS>
+        <BIRTHPLACE>Saraland, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>12</NO>
+        <NAME>trent-moye</NAME>
+        <ID>4905545</ID>
+        <POS>G</POS>
+        <HT>6-7</HT>
+        <WT>190 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Chumuckla, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>50</NO>
+        <NAME>joshua-williams</NAME>
+        <ID>4905544</ID>
+        <POS>G</POS>
+        <HT>5-10</HT>
+        <WT>150 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Fort Walton Beach, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>5</NO>
+        <NAME>keon-walker</NAME>
+        <ID>4706546</ID>
+        <POS>G</POS>
+        <HT>6-3</HT>
+        <WT>200 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Birmingham, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>10</NO>
+        <NAME>pj-king</NAME>
+        <ID>4706544</ID>
+        <POS>G</POS>
+        <HT>5-11</HT>
+        <WT>175 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Hoover, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>23</NO>
+        <NAME>treylan-smith</NAME>
+        <ID>4705889</ID>
+        <POS>G</POS>
+        <HT>6-5</HT>
+        <WT>190 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Richton, MS</BIRTHPLACE>
+      </player>
+    </visitor>
+    <home>
+      <roster_header>South Alabama Jaguars Roster 2025-26</roster_header>
+      <coach>Coach Richie Riley</coach>
+      <player>
+        <NO>34</NO>
+        <NAME>randy-brady</NAME>
+        <ID>4433611</ID>
+        <POS>F</POS>
+        <HT>6-5</HT>
+        <WT>220 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Chattanooga, TN</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>1</NO>
+        <NAME>jayden-cooper</NAME>
+        <ID>5240641</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>185 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Pike Road, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>2</NO>
+        <NAME>chaze-harris</NAME>
+        <ID>5189001</ID>
+        <POS>G</POS>
+        <HT>6-6</HT>
+        <WT>190 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Cleveland, OH</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>14</NO>
+        <NAME>john-broom</NAME>
+        <ID>5176682</ID>
+        <POS>G</POS>
+        <HT>6-5</HT>
+        <WT>185 lbs</WT>
+        <CLASS>SO</CLASS>
+        <BIRTHPLACE>Jacksonville, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>4</NO>
+        <NAME>hantz-louis-jeune</NAME>
+        <ID>5107410</ID>
+        <POS>G</POS>
+        <HT>6-5</HT>
+        <WT>185 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Lake Worth, FL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>3</NO>
+        <NAME>stephen-williams</NAME>
+        <ID>5313202</ID>
+        <POS>F</POS>
+        <HT>6-9</HT>
+        <WT>240 lbs</WT>
+        <CLASS>SO</CLASS>
+        <BIRTHPLACE>Atmore, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>7</NO>
+        <NAME>brian-hawthorne</NAME>
+        <ID>5313203</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>190 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Shawnee, KS</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>6</NO>
+        <NAME>jj-wheat</NAME>
+        <ID>5240643</ID>
+        <POS>G</POS>
+        <HT>6-0</HT>
+        <WT>180 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Clarksville, TN</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>12</NO>
+        <NAME>adam-olsen</NAME>
+        <ID>5313206</ID>
+        <POS>F</POS>
+        <HT>6-8</HT>
+        <WT>225 lbs</WT>
+        <CLASS>JR</CLASS>
+        <BIRTHPLACE>Surrey, BC</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>9</NO>
+        <NAME>peyton-law</NAME>
+        <ID>5313205</ID>
+        <POS>F</POS>
+        <HT>6-7</HT>
+        <WT>220 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Calhoun, GA</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>8</NO>
+        <NAME>desmond-williams</NAME>
+        <ID>5313204</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>185 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>Mobile, AL</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>0</NO>
+        <NAME>samuel-shoptaw</NAME>
+        <ID>5313201</ID>
+        <POS>G</POS>
+        <HT>6-2</HT>
+        <WT>205 lbs</WT>
+        <CLASS>FR</CLASS>
+        <BIRTHPLACE>London, KY</BIRTHPLACE>
+      </player>
+      <player>
+        <NO>10</NO>
+        <NAME>maxwell-land</NAME>
+        <ID>4433582</ID>
+        <POS>G</POS>
+        <HT>6-4</HT>
+        <WT>200 lbs</WT>
+        <CLASS>SR</CLASS>
+        <BIRTHPLACE>Cincinnati, OH</BIRTHPLACE>
+      </player>
+    </home>
+  </ESPN_TEAM_ROSTER>
+  <ESPN_RECAP></ESPN_RECAP>
+  <ESPN_PLAYBYPLAY></ESPN_PLAYBYPLAY>
+</ESPN_EVENT>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ESPN_EVENT>
+  <gameID>401591553</gameID>
+  <visitor>Hampton Pirates</visitor>
+  <home>Maryland Eastern Shore Hawks</home>
+  <date>20231201</date>
+  <ESPN_DATA_PARSE_VERSION>20231201</ESPN_DATA_PARSE_VERSION>
+  <ESPN_BOX_URL>https://www.espn.com/mens-college-basketball/game/_/gameId/401591553/hampton-md-eastern</ESPN_BOX_URL>
+  <RESULT>
+    <visitor>
+      <id>2261</id>
+      <team_long>Hampton Pirates</team_long>
+      <team_short>Hamp</team_short>
+      <T>0</T>
+      <score>(0-0)</score>
+    </visitor>
+    <home>
+      <id>2379</id>
+      <team_long>Maryland Eastern Shore Hawks</team_long>
+      <team_short>Umes</team_short>
+      <T>0</T>
+      <score>(0-0)</score>
+    </home>
+  </RESULT>
+  <GAME_TIME_AND_LOCATION>
+    <date>20231201</date>
+    <unix_time>1701475200</unix_time>
+    <location>Hytche Center, Princess Anne, MD</location>
+    <attendance>Attendance: 0</attendance>
+    <capacity></capacity>
+  </GAME_TIME_AND_LOCATION>
+  <LINESCORE>
+    <visitor>
+      <id></id>
+      <team_long>Hampton Pirates</team_long>
+      <c1>0</c1>
+      <c2>0</c2>
+      <T>0</T>
+    </visitor>
+    <home>
+      <id></id>
+      <team_long>Maryland Eastern Shore Hawks</team_long>
+      <c1>0</c1>
+      <c2>0</c2>
+      <T>0</T>
+    </home>
+  </LINESCORE>
+  <GAME_NOTES>
+    <top_performers>
+      <assists>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <ast>0</ast>
+            <to>0</to>
+            <min>0</min>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <ast>0</ast>
+            <to>0</to>
+            <min>0</min>
+          </player>
+        </visitor>
+      </assists>
+      <points>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <pts>0</pts>
+            <fg>0/0</fg>
+            <ft>0/0</ft>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <pts>0</pts>
+            <fg>0/0</fg>
+            <ft>0/0</ft>
+          </player>
+        </visitor>
+      </points>
+      <rebounds>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <reb>0</reb>
+            <dreb>0</dreb>
+            <oreb>0</oreb>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <reb>0</reb>
+            <dreb>0</dreb>
+            <oreb>0</oreb>
+          </player>
+        </visitor>
+      </rebounds>
+    </top_performers>
+  </GAME_NOTES>
+  <STATS>
+    <visitor>
+      <team>Hampton Pirates</team>
+      <starters></starters>
+      <bench></bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A></FGM>
+          <_3PM-A></_3PM>
+          <FTM-A></FTM>
+          <OREB></OREB>
+          <DREB></DREB>
+          <REB></REB>
+          <AST></AST>
+          <STL></STL>
+          <BLK></BLK>
+          <TO></TO>
+          <PF></PF>
+          <PTS></PTS>
+        </player>
+      </totals>
+    </visitor>
+    <home>
+      <team>Maryland Eastern Shore Hawks</team>
+      <starters></starters>
+      <bench></bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A></FGM>
+          <_3PM-A></_3PM>
+          <FTM-A></FTM>
+          <OREB></OREB>
+          <DREB></DREB>
+          <REB></REB>
+          <AST></AST>
+          <STL></STL>
+          <BLK></BLK>
+          <TO></TO>
+          <PF></PF>
+          <PTS></PTS>
+        </player>
+      </totals>
+    </home>
+    <flagrant_fouls>None</flagrant_fouls>
+    <technicals>
+      <person>None</person>
+    </technicals>
+    <officials>
+      <person>None</person>
+    </officials>
+    <time_of_game></time_of_game>
+  </STATS>
+  <ESPN_TEAM_ROSTER>
+    <visitor>
+      <roster_header>Hampton Pirates Roster 2023-24</roster_header>
+      <coach>Coach Ivan Thomas</coach>
+    </visitor>
+    <home>
+      <roster_header>Maryland Eastern Shore Hawks Roster 2023-24</roster_header>
+      <coach>Coach Cleo Hill Jr.</coach>
+    </home>
+  </ESPN_TEAM_ROSTER>
+  <ESPN_RECAP></ESPN_RECAP>
+  <ESPN_PLAYBYPLAY></ESPN_PLAYBYPLAY>
+</ESPN_EVENT>

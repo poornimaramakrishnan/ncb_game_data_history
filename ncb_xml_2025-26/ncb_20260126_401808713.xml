@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ESPN_EVENT>
+  <gameID>401808713</gameID>
+  <visitor>East Texas A&amp;M Lions</visitor>
+  <home>Lamar Cardinals</home>
+  <date>20260126</date>
+  <ESPN_DATA_PARSE_VERSION>20260126</ESPN_DATA_PARSE_VERSION>
+  <ESPN_BOX_URL>https://www.espn.com/mens-college-basketball/game/_/gameId/401808713/e-texas-am-lamar</ESPN_BOX_URL>
+  <RESULT>
+    <visitor>
+      <id>2837</id>
+      <team_long>East Texas A&amp;M Lions</team_long>
+      <team_short>Etam</team_short>
+      <T>0</T>
+      <score>(0-0)</score>
+    </visitor>
+    <home>
+      <id>2320</id>
+      <team_long>Lamar Cardinals</team_long>
+      <team_short>Lam</team_short>
+      <T>0</T>
+      <score>(0-0)</score>
+    </home>
+  </RESULT>
+  <GAME_TIME_AND_LOCATION>
+    <date>20260126</date>
+    <unix_time>1769472000</unix_time>
+    <location>Montagne Center, Beaumont, TX</location>
+    <attendance>Attendance: 0</attendance>
+    <capacity></capacity>
+  </GAME_TIME_AND_LOCATION>
+  <LINESCORE>
+    <visitor>
+      <id></id>
+      <team_long>East Texas A&amp;M Lions</team_long>
+      <c1>0</c1>
+      <c2>0</c2>
+      <T>0</T>
+    </visitor>
+    <home>
+      <id></id>
+      <team_long>Lamar Cardinals</team_long>
+      <c1>0</c1>
+      <c2>0</c2>
+      <T>0</T>
+    </home>
+  </LINESCORE>
+  <GAME_NOTES>
+    <top_performers>
+      <assists>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <ast>0</ast>
+            <to>0</to>
+            <min>0</min>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <ast>0</ast>
+            <to>0</to>
+            <min>0</min>
+          </player>
+        </visitor>
+      </assists>
+      <points>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <pts>0</pts>
+            <fg>0/0</fg>
+            <ft>0/0</ft>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <pts>0</pts>
+            <fg>0/0</fg>
+            <ft>0/0</ft>
+          </player>
+        </visitor>
+      </points>
+      <rebounds>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <reb>0</reb>
+            <dreb>0</dreb>
+            <oreb>0</oreb>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <reb>0</reb>
+            <dreb>0</dreb>
+            <oreb>0</oreb>
+          </player>
+        </visitor>
+      </rebounds>
+    </top_performers>
+  </GAME_NOTES>
+  <STATS>
+    <visitor>
+      <team>East Texas A&amp;M Lions</team>
+      <starters></starters>
+      <bench></bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A></FGM>
+          <_3PM-A></_3PM>
+          <FTM-A></FTM>
+          <OREB></OREB>
+          <DREB></DREB>
+          <REB></REB>
+          <AST></AST>
+          <STL></STL>
+          <BLK></BLK>
+          <TO></TO>
+          <PF></PF>
+          <PTS></PTS>
+        </player>
+      </totals>
+    </visitor>
+    <home>
+      <team>Lamar Cardinals</team>
+      <starters></starters>
+      <bench></bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A></FGM>
+          <_3PM-A></_3PM>
+          <FTM-A></FTM>
+          <OREB></OREB>
+          <DREB></DREB>
+          <REB></REB>
+          <AST></AST>
+          <STL></STL>
+          <BLK></BLK>
+          <TO></TO>
+          <PF></PF>
+          <PTS></PTS>
+        </player>
+      </totals>
+    </home>
+    <flagrant_fouls>None</flagrant_fouls>
+    <technicals>
+      <person>None</person>
+    </technicals>
+    <officials>
+      <person>None</person>
+    </officials>
+    <time_of_game></time_of_game>
+  </STATS>
+  <ESPN_TEAM_ROSTER>
+    <visitor>
+      <roster_header>East Texas A&amp;M Lions Roster 2025-26</roster_header>
+      <coach>Coach Jaret von Rosenberg</coach>
+    </visitor>
+    <home>
+      <roster_header>Lamar Cardinals Roster 2025-26</roster_header>
+      <coach>Coach Alvin Brooks</coach>
+    </home>
+  </ESPN_TEAM_ROSTER>
+  <ESPN_RECAP></ESPN_RECAP>
+  <ESPN_PLAYBYPLAY></ESPN_PLAYBYPLAY>
+</ESPN_EVENT>

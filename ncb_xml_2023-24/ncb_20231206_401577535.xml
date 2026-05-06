@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ESPN_EVENT>
+  <gameID>401577535</gameID>
+  <visitor>UNLV Rebels</visitor>
+  <home>Dayton Flyers</home>
+  <date>20231206</date>
+  <ESPN_DATA_PARSE_VERSION>20231206</ESPN_DATA_PARSE_VERSION>
+  <ESPN_BOX_URL>https://www.espn.com/mens-college-basketball/game/_/gameId/401577535/unlv-dayton</ESPN_BOX_URL>
+  <RESULT>
+    <visitor>
+      <id>2439</id>
+      <team_long>UNLV Rebels</team_long>
+      <team_short>Unlv</team_short>
+      <T>0</T>
+      <score>(0-0)</score>
+    </visitor>
+    <home>
+      <id>2168</id>
+      <team_long>Dayton Flyers</team_long>
+      <team_short>Day</team_short>
+      <T>0</T>
+      <score>(0-0)</score>
+    </home>
+  </RESULT>
+  <GAME_TIME_AND_LOCATION>
+    <date>20231206</date>
+    <unix_time>1701907200</unix_time>
+    <location>UD Arena, Dayton, OH</location>
+    <attendance>Attendance: 0</attendance>
+    <capacity></capacity>
+  </GAME_TIME_AND_LOCATION>
+  <LINESCORE>
+    <visitor>
+      <id></id>
+      <team_long>UNLV Rebels</team_long>
+      <c1>0</c1>
+      <c2>0</c2>
+      <T>0</T>
+    </visitor>
+    <home>
+      <id></id>
+      <team_long>Dayton Flyers</team_long>
+      <c1>0</c1>
+      <c2>0</c2>
+      <T>0</T>
+    </home>
+  </LINESCORE>
+  <GAME_NOTES>
+    <top_performers>
+      <assists>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <ast>0</ast>
+            <to>0</to>
+            <min>0</min>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <ast>0</ast>
+            <to>0</to>
+            <min>0</min>
+          </player>
+        </visitor>
+      </assists>
+      <points>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <pts>0</pts>
+            <fg>0/0</fg>
+            <ft>0/0</ft>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <pts>0</pts>
+            <fg>0/0</fg>
+            <ft>0/0</ft>
+          </player>
+        </visitor>
+      </points>
+      <rebounds>
+        <home>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <reb>0</reb>
+            <dreb>0</dreb>
+            <oreb>0</oreb>
+          </player>
+        </home>
+        <visitor>
+          <player>
+            <player_name></player_name>
+            <player_ID>0</player_ID>
+            <reb>0</reb>
+            <dreb>0</dreb>
+            <oreb>0</oreb>
+          </player>
+        </visitor>
+      </rebounds>
+    </top_performers>
+  </GAME_NOTES>
+  <STATS>
+    <visitor>
+      <team>UNLV Rebels</team>
+      <starters></starters>
+      <bench></bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A></FGM>
+          <_3PM-A></_3PM>
+          <FTM-A></FTM>
+          <OREB></OREB>
+          <DREB></DREB>
+          <REB></REB>
+          <AST></AST>
+          <STL></STL>
+          <BLK></BLK>
+          <TO></TO>
+          <PF></PF>
+          <PTS></PTS>
+        </player>
+      </totals>
+    </visitor>
+    <home>
+      <team>Dayton Flyers</team>
+      <starters></starters>
+      <bench></bench>
+      <totals>
+        <player>
+          <player_name>team</player_name>
+          <player_jersey></player_jersey>
+          <pos></pos>
+          <player_ID>0</player_ID>
+          <MIN></MIN>
+          <FGM-A></FGM>
+          <_3PM-A></_3PM>
+          <FTM-A></FTM>
+          <OREB></OREB>
+          <DREB></DREB>
+          <REB></REB>
+          <AST></AST>
+          <STL></STL>
+          <BLK></BLK>
+          <TO></TO>
+          <PF></PF>
+          <PTS></PTS>
+        </player>
+      </totals>
+    </home>
+    <flagrant_fouls>None</flagrant_fouls>
+    <technicals>
+      <person>None</person>
+    </technicals>
+    <officials>
+      <person>None</person>
+    </officials>
+    <time_of_game></time_of_game>
+  </STATS>
+  <ESPN_TEAM_ROSTER>
+    <visitor>
+      <roster_header>UNLV Rebels Roster 2023-24</roster_header>
+      <coach>Coach Josh Pastner</coach>
+    </visitor>
+    <home>
+      <roster_header>Dayton Flyers Roster 2023-24</roster_header>
+      <coach>Coach Anthony Grant</coach>
+    </home>
+  </ESPN_TEAM_ROSTER>
+  <ESPN_RECAP></ESPN_RECAP>
+  <ESPN_PLAYBYPLAY></ESPN_PLAYBYPLAY>
+</ESPN_EVENT>
